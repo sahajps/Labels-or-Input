@@ -1,6 +1,7 @@
 # python==3.11.11
-# ipykernel==6.29.5
-# ipywidgets==8.1.5
+ipykernel==6.29.5
+ipywidgets==8.1.5
+# papermill==2.6.0 # if you need to run some notebook in background -- nohup papermill xyz.ipynb xyz.ipynb &
 
 pandas==2.2.3
 tqdm==4.67.1
@@ -19,3 +20,4 @@ google_genai==1.7.0
 timeout-decorator==0.5.0
 
 scikit_learn==1.6.1
+seaborn==0.13.2
