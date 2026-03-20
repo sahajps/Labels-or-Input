@@ -37,14 +37,11 @@ To assess the quality of augmented data, run the notebook `Human Eval/human_scor
 ## 📚 Cite Us
 If you find this work helpful and use our dataset or methodology, please cite:
 ```bibtex
-@misc{singh2025labelsinputrethinkingaugmentation,
+@article{singh2025labels,
   title={Labels or Input? Rethinking Augmentation in Multimodal Hate Detection},
-  author={Sahajpreet Singh and Rongxin Ouyang and Subhayan Mukerjee and Kokil Jaidka},
-  year={2025},
-  eprint={2508.11808},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2508.11808},
+  author={Singh, Sahajpreet and Jaidka, Kokil and Mukerjee, Subhayan},
+  journal={arXiv preprint arXiv:2508.11808},
+  year={2025}
 }
 ```
 For the initial MM label scaling root work:
